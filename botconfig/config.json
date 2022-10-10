@@ -1,0 +1,39 @@
+{
+   "token": "OTY4MTY4NDE5ODM5MDc4NDcw.GTF0pP.3Zb418q5AjXWVjISk_2Tu5WR-mzPDmm65YnNpU",
+   "prefix": "$",
+   "ownerIDS": [
+      "980763915749322773"
+   ],
+   "bannermusic": "",
+   "memer_api": "2Mb4Ak8HZpS",
+   "status": {
+      "text": "$help for help",
+      "text2": "KAMI ON TOP ✨",
+      "type": "STREAMING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lavalink.oops.wtf",
+            "port": 2000,
+            "password": "www.freelavalink.ga"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "02730bbd90bf4b16a99ce2a275a8d39a",
+      "clientID": "c6737699878b4f05abdd66426a14b113"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
